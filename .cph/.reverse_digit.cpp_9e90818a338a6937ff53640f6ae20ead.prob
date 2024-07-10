@@ -1,0 +1,1 @@
+{"name":"Local: reverse_digit","url":"e:\\Phitron\\DS\\LeetCode-Problem-Solved\\reverse_digit.cpp","tests":[{"id":1720593981971,"input":"123","output":"321"},{"id":1720594087124,"input":"584","output":"485"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\DS\\LeetCode-Problem-Solved\\reverse_digit.cpp","group":"local","local":true}
