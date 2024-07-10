@@ -1,0 +1,1 @@
+{"name":"Local: sumTwoArray","url":"e:\\Phitron\\DS\\LeetCode-Problem-Solved\\sumTwoArray.cpp","tests":[{"id":1720592906211,"input":"2\n4 1 \n1 2 3 4\n6\n3 2\n1 2 3\n9 9","output":"1 2 4 0\n2 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\DS\\LeetCode-Problem-Solved\\sumTwoArray.cpp","group":"local","local":true}
