@@ -13,11 +13,7 @@ public:
             if(s == "../" && !st.empty()) st.pop();
             else if(s != "./" && s != "../") st.push(s);
         }
-        int step = 0;
-        while(!st.empty()){
-            st.pop();
-            step++;
-        }
-        return step;
+        
+        return st.size();
     }
 };
